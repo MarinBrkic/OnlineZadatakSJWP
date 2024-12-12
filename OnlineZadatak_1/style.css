@@ -1,0 +1,15 @@
+#message {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #333;
+}
+
+#hoverArea {
+    width: 200px;
+    height: 100px;
+    background-color: lightblue;
+    text-align: center;
+    line-height: 100px;
+    border: 2px solid #007BFF;
+    cursor: pointer;
+}
